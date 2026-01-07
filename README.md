@@ -52,6 +52,9 @@ npm install
 cd src
 npm install
 cd ..
+
+
+#
 Đóng góp
 Nếu bạn muốn đóng góp cho dự án, vui lòng tạo issue hoặc pull request trên repository.
 
